@@ -5,7 +5,7 @@ Live Links:
 
 Assignment 1: Setting up D3: https://hhanif.github.io/CMPS-165/Assignment%201/Example1.html
 
-Assignment 2: HTML, CSS, JavaScript, & SVG
+Assignment 2: HTML, CSS, JavaScript, & SVG: https://hhanif.github.io/CMPS-165/Assignment%202/Circle.html
 
 Assignment 3: Bar Chart
 
