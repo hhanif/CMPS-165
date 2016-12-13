@@ -13,7 +13,7 @@ Assignment 4: Line Chart
 
 Assignment 5: Scatterplot: https://hhanif.github.io/CMPS-165/Assignment%205/scatterindex.html
 
-Assignment 6: GeoMapping
+Assignment 6: GeoMapping: https://hhanif.github.io/CMPS-165/Assignment%206/index.html
 
 Final Project:
 
