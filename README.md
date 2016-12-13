@@ -7,7 +7,7 @@ Assignment 1: Setting up D3: https://hhanif.github.io/CMPS-165/Assignment%201/Ex
 
 Assignment 2: HTML, CSS, JavaScript, & SVG: https://hhanif.github.io/CMPS-165/Assignment%202/Circle.html
 
-Assignment 3: Bar Chart
+Assignment 3: Bar Chart: https://hhanif.github.io/CMPS-165/Assignment%203/BarGraph.html
 
 Assignment 4: Line Chart
 
