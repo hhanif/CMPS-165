@@ -1,6 +1,8 @@
 # CMPS-165
 Lab Assignments from CMPS-165: Data Programming for Visualization
 
+Live Links:
+
 Assignment 1: Setting up D3
 
 Assignment 2: HTML, CSS, JavaScript, & SVG
