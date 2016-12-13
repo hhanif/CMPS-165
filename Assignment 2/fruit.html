@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Amazing Example</title>
+        <script type=”text/javascript” src=”https://d3js.org/d3.v4.min.js”></script>
+        <style type="text/css">
+            p{
+                background-color: lightgrey;
+                margin: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <script type="text/javascript">
+            var fruits = ['12 grape','98 kiwi', '0 banana'];
+            var colors = ['red', 'brown', 'yellow'];
+
+        for (i = 0, n = fruits.length; i < n; i++) {
+            var line = document.createElement("p");
+            line.className = 'line';
+            line.innerHTML = fruits[i];
+            document.body.appendChild(line);
+            line.style.color = colors[i];
+        }
+  
+        </script>
+    </body>
+</html>
