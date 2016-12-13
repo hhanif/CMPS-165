@@ -11,7 +11,7 @@ Assignment 3: Bar Chart: https://hhanif.github.io/CMPS-165/Assignment%203/BarGra
 
 Assignment 4: Line Chart
 
-Assignment 5: Scatterplot
+Assignment 5: Scatterplot: https://hhanif.github.io/CMPS-165/Assignment%205/scatterindex.html
 
 Assignment 6: GeoMapping
 
