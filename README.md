@@ -15,4 +15,8 @@ Assignment 5: Scatterplot
 
 Assignment 6: GeoMapping
 
-Final Project
+Final Project:
+
+Git Repository for Final Project: https://github.com/bnguye54/CarMaintenanceModel
+
+Live Link to Final Project: https://bnguye54.github.io/CarMaintenanceModel/
