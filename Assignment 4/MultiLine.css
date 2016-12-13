@@ -1,0 +1,31 @@
+svg {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.grid line{
+	z-index: 10;
+	position: relative;
+	fill: none;
+	stroke: black;
+	opacity: .2;
+	shape-rendering: crispEdges;
+}
+.grid path{
+	position: relative;
+	z-index: 10;
+	stroke-width:0px;
+}
+body { font: 10px sans-serif; }
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.x.axis path { display: none; }
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
