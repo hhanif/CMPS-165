@@ -9,7 +9,7 @@ Assignment 2: HTML, CSS, JavaScript, & SVG: https://hhanif.github.io/CMPS-165/As
 
 Assignment 3: Bar Chart: https://hhanif.github.io/CMPS-165/Assignment%203/BarGraph.html
 
-Assignment 4: Line Chart
+Assignment 4: Line Chart: https://hhanif.github.io/CMPS-165/Assignment%204/MultiLine.html
 
 Assignment 5: Scatterplot: https://hhanif.github.io/CMPS-165/Assignment%205/scatterindex.html
 
